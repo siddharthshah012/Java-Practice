@@ -9,9 +9,7 @@ public class sodukuCheck {
                 { 7, 1, 4, 8, 6, 2, 9, 5, 3 }, { 8, 6, 3, 4, 1, 7, 2, 9, 5 },
                 { 1, 9, 5, 2, 8, 6, 4, 3, 7 }, { 4, 2, 7, 9, 5, 3, 8, 6, 1 } };
 
-        //System.out.println(check(a));
+     //   System.out.println(check(a));
     }
 
-   
-
-}
+   }
